@@ -1,0 +1,11 @@
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\bin\x64\Debug\netcoreapp2.1\Speec-app.deps.json
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\bin\x64\Debug\netcoreapp2.1\Speec-app.runtimeconfig.json
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\bin\x64\Debug\netcoreapp2.1\Speec-app.runtimeconfig.dev.json
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\bin\x64\Debug\netcoreapp2.1\Speec-app.dll
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\bin\x64\Debug\netcoreapp2.1\Speec-app.pdb
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\obj\x64\Debug\netcoreapp2.1\Speec-app.csprojAssemblyReference.cache
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\obj\x64\Debug\netcoreapp2.1\Speec-app.csproj.CoreCompileInputs.cache
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\obj\x64\Debug\netcoreapp2.1\Speec-app.AssemblyInfoInputs.cache
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\obj\x64\Debug\netcoreapp2.1\Speec-app.AssemblyInfo.cs
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\obj\x64\Debug\netcoreapp2.1\Speec-app.dll
+D:\CMD\Jaar3\AI\AI_eindopdracht\Speec-app\obj\x64\Debug\netcoreapp2.1\Speec-app.pdb

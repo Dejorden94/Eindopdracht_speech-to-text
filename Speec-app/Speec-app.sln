@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Speec-app", "Speec-app.csproj", "{E02670C6-C1B4-40D3-91E2-1807AFB1C5D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02670C6-C1B4-40D3-91E2-1807AFB1C5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02670C6-C1B4-40D3-91E2-1807AFB1C5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02670C6-C1B4-40D3-91E2-1807AFB1C5D2}.Debug|x64.ActiveCfg = Debug|x64
+		{E02670C6-C1B4-40D3-91E2-1807AFB1C5D2}.Debug|x64.Build.0 = Debug|x64
+		{E02670C6-C1B4-40D3-91E2-1807AFB1C5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02670C6-C1B4-40D3-91E2-1807AFB1C5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02670C6-C1B4-40D3-91E2-1807AFB1C5D2}.Release|x64.ActiveCfg = Release|x64
+		{E02670C6-C1B4-40D3-91E2-1807AFB1C5D2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C1E398C-DCE6-4F0C-80A1-3A393B8F50A9}
+	EndGlobalSection
+EndGlobal
