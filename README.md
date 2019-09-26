@@ -15,6 +15,7 @@ If you purchased the speech to tekst key you can find you region here: https://d
 
 When you have done all this you can click Build > Build solution, next up you can click on Debug > Start Debugging and the project will start
  
+When you start to talk the software will listen to what you are saying, when you stop talking the software will return what you said. If you say any curse words then the software will notify you that you must watch your language.
 
 For more information about the project you can look at the wiki https://github.com/Dejorden94/Eindopdracht_speech-to-text/wiki
 
