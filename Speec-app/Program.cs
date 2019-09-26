@@ -30,11 +30,11 @@ namespace helloworld
                 if (result.Reason == ResultReason.RecognizedSpeech)
                 {
                 Console.WriteLine($"We recognized: {result.Text}");
-                    if (System.Text.RegularExpressions.Regex.IsMatch(result.Text, @"[*]")){
-                        Console.WriteLine($"STOP SWEARING!");
+                    if (System.Text.RegularExpressions.Regex.IsMatch(result.Text, @"[*]")){ //Reguliere expressie die zoekt naar een *, als die wordt gevonden dan print de console "DOE EVEN NORMAAL!"
+                        Console.WriteLine($"DOE IS EVEN NORMAAL!");
                     }
                     else{
-                        Console.WriteLine("You didn't swear! Nice.");
+                        Console.WriteLine("Text herkend"); //Als er geen * wordt gevonden dan print de console gewoon "text herkend"
                     }
                     /*switch (result.Text)
                     {
