@@ -4,6 +4,8 @@ This app converts speech to text and gives a notification when the user is cursi
 
 To use the app you must clone this repository and save it somewhere on your computer. 
 
+Open the Program.cs file and do the following:
+
 In the ``` var config = SpeechConfig.FromSubscription("SubscriptionKey", "Region");``` line you have to enter your subscription key 
 from Microsoft Azure and your region (If you are using a trial subscription key you have to enter “westus” at region.)
 
