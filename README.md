@@ -9,3 +9,5 @@ from Microsoft Azure and your region (If you are using a trial subscription key 
 
 If you purchased the speech to tekst key you can find you region here: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/regions
 
+For more information about the project you can look at the wiki https://github.com/Dejorden94/Eindopdracht_speech-to-text/wiki
+
